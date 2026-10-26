@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grabador Oculto</string>
+    <string name="start">GRABAR</string>
+    <string name="stop">DETENER</string>
+    <string name="status_idle">Listo para grabar</string>
+    <string name="status_starting">Iniciando cámara…</string>
+    <string name="status_recording">● Grabando</string>
+    <string name="camera">Cámara</string>
+    <string name="cam_back">Trasera</string>
+    <string name="cam_front">Frontal</string>
+    <string name="quality">Calidad</string>
+    <string name="q_uhd">4K</string>
+    <string name="q_fhd">1080p</string>
+    <string name="q_hd">720p</string>
+    <string name="audio">Grabar audio</string>
+    <string name="battery">Permitir uso de batería sin restricciones (recomendado)</string>
+    <string name="help">Cómo usar:\n1. Presiona GRABAR.\n2. Apaga la pantalla con el botón de encendido: la grabación continúa.\n3. Para detener, abre la app o usa \"Detener\" en la notificación.\n\nLos videos quedan en Galería → Movies/GrabadorOculto.\nAndroid muestra un punto verde mientras la cámara está en uso; no se puede ocultar.</string>
+    <string name="camera_permission_needed">Se necesita el permiso de cámara para grabar.</string>
+    <string name="channel_name">Grabación</string>
+    <string name="notif_starting">Iniciando grabación…</string>
+    <string name="notif_recording">Grabando video</string>
+    <string name="notif_text">Puedes apagar la pantalla.</string>
+    <string name="saved">Video guardado: %1$s</string>
+    <string name="error_start">No se pudo iniciar: %1$s</string>
+    <string name="error_recording">Error de grabación (%1$d) %2$s</string>
+</resources>

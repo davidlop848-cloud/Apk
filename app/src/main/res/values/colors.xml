@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rec_red">#D32F2F</color>
+    <color name="rec_red_dark">#9A0007</color>
+    <color name="icon_bg">#212121</color>
+</resources>
